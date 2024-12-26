@@ -25,4 +25,4 @@ go.work.sum
 .env
 
 # output binary
-aoc-2024
+day-*

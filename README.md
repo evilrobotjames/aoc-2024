@@ -1,0 +1,1 @@
+A reason to try out golang.  Not perfectly elegant or idiomatic code.
